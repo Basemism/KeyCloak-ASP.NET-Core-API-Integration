@@ -64,7 +64,7 @@ if __name__ == "__main__" :
     base_url = "http://localhost:8080"
     realm = "todorealm"
     client_id = "todo-client"
-    client_secret = "ot6Jqo0jBn1i93uoMFApjHESbGZEBAsq"
+    client_secret = "****"
     username = "foo"
     password = "password"
     

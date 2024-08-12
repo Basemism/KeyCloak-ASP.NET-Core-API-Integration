@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\Basem\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\Basem\\OneDrive\\Desktop\\ASP_Project\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Basem\\AppData\\Roaming\\NuGet\\NuGet.Config"
